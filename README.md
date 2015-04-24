@@ -1,8 +1,9 @@
-## Course 3 Project
-###Getting and Cleaning Data Course Project
+#Course 3 Project
+####Getting and Cleaning Data Course Project
 
 
-The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. An R script called 'run_analysis.R'
+
+The purpose of this project is to demonstrate an ability to collect, work with, and clean a data set. An R script called 'run_analysis.R'
 is created for this purpose.
 
 
@@ -20,6 +21,7 @@ For the script to work, please follow the steps below:
 2. Extract the file.
 3. Using R or RStudio, point your working directory to the extracted file named **UCI HAR Dataset** folder.
 4. Run the run_analysis.R script.
+
 
 
 **The Script Flow Description:**
