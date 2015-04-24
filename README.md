@@ -1,5 +1,5 @@
-# Course3Project
-##Getting and Cleaning Data Course Project
+## Course 3 Project
+###Getting and Cleaning Data Course Project
 
 
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. An R script called 'run_analysis.R'
@@ -44,7 +44,9 @@ For the script to work, please follow the steps below:
 
 
 **Note:**
+
 You may read the new data set by running the code below:
+
         ```
         sample<-read.table("mean_per_measurement.txt")
         View(sample)
