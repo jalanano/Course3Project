@@ -50,8 +50,8 @@ For the script to work, please follow the steps below:
 You may read the new data set by running the code below:
 
         ```
-        sample<-read.table("mean_per_measurement.txt")
-        View(sample)
+        my_data<-read.table("mean_per_measurement.txt")
+        View(my_data)
         ```
 
        
