@@ -40,6 +40,7 @@ For the script to work, please follow the steps below:
     - removing symbols (-, ())
     - removing redundant words such as BodyBody
     - replace tBody with time_Body
+    - replace tGravity with time_Gravity
     - replace fBody with frequency_Body
 10. From the previous data set (dataframe: combined_traintest), create another data set containing the average of each measurement for each subject and activity (dataframe:data_summary).
 11. Exports the new data set(dataframe:data_summary) to a file named (mean_per_measurement.txt) in the current directory.
