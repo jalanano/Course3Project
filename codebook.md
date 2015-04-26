@@ -42,8 +42,9 @@ These signals were used to estimate variables of the feature vector for each pat
 - std(): Standard deviation
 - meanFreq(): Weighted average of the frequency components to obtain a mean frequency
 
+
 **Note:**
-For description on how the data was transformed and manipulated, please refer to the README file.
+**For description on how the data was transformed and manipulated, please refer to the README file.**
 
 
 **The complete list of variables and its descriptions are:**
