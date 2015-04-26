@@ -1,6 +1,9 @@
 #Description of the Variables used in the run_analysis.R script#
 ==========================================================
 
+**Note:**
+**For description on how the data was transformed and manipulated, please refer to the README file.**
+
 The data comes from the accelerometer and gyroscope 3-axial raw signals timeAcc-XYZ and timeGyro-XYZ. 
 These time domain signals (prefix 'time' to denote time) were captured at a constant rate of 50 Hz. Then they were filtered using a median filter and a 3rd order low pass Butterworth filter with a corner frequency of 20 Hz to remove noise. Similarly, the acceleration signal was then separated into body and gravity acceleration signals (timeBodyAcc-XYZ and timeGravityAcc-XYZ) using another low pass Butterworth filter with a corner frequency of 0.3 Hz. 
 
@@ -42,9 +45,6 @@ These signals were used to estimate variables of the feature vector for each pat
 - std(): Standard deviation
 - meanFreq(): Weighted average of the frequency components to obtain a mean frequency
 
-
-**Note:**
-**For description on how the data was transformed and manipulated, please refer to the README file.**
 
 
 **The complete list of variables and its descriptions are:**
