@@ -71,6 +71,7 @@ names(combined_traintest) <- sub("-",".",names(combined_traintest),fixed=FALSE)
 names(combined_traintest) <- sub("-",".",names(combined_traintest),fixed=FALSE)
 names(combined_traintest) <- sub("BodyBody","Body",names(combined_traintest),fixed=FALSE)
 names(combined_traintest) <- sub("tBody","time_Body",names(combined_traintest),fixed=FALSE)
+names(combined_traintest) <- sub("tGravity","time_Gravity",names(combined_traintest),fixed=FALSE)
 names(combined_traintest) <- sub("fBody","frequency_Body",names(combined_traintest),fixed=FALSE)
 
 
