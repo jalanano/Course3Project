@@ -48,7 +48,7 @@ For the script to work, please follow the steps below:
 
 **Note:**
 
-You may read the new data set by running the code below:
+Optionally, you may read the new data set by running the code below in R Studio after running the run_analysis script:
 
         ```
         my_data<-read.table("mean_per_measurement.txt")
