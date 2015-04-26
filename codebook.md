@@ -1,4 +1,4 @@
-#Description of the Input Data for the run_analysis.R script
+#Description of the Variables used in the run_analysis.R script#
 ==========================================================
 
 
